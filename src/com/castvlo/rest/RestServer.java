@@ -18,7 +18,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /**
- * This class is a show case of Jersey RESTFul Web Services Library
+ * This class is a showcase of Jersey RESTFul Web Services Library
  * @author gofa
  *
  */
