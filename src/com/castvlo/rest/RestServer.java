@@ -45,6 +45,7 @@ public class RestServer {
 		System.out.println("CAmbio 6");
 		System.out.println("Cambio 7");
 		System.out.println("Cambio 9");
+		System.out.println("Cambio 10");
 
 		// return HTTP response 200 in case of success
 		return Response.status(200).entity(crunchifyBuilder.toString()).build();
